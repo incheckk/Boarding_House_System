@@ -1426,6 +1426,8 @@ a:hover, a:active {
 /*--------------------------------------------------------------
 ## Menus
 --------------------------------------------------------------*/
+
+
 @media only screen and (min-width: 992px) {
   #mobile-menu {
     display: none;
@@ -1462,6 +1464,7 @@ a:hover, a:active {
     line-height: 45px;
     float: left;
     position: relative;
+    margin-right: 75px;
   }
   .menu-list li {
     list-style: none;
